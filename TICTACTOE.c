@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-int main()
+void main()
 {
     char grid[3][3];
     int i,j,k;
@@ -68,5 +68,5 @@ int main()
             }
     }
     getchar();
-    return 0;
+
 }
